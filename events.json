@@ -1,0 +1,27 @@
+{
+    "static":[
+            {
+                "id": 123,
+                "name": "Successful auth event at the source",
+                "count": 127
+            },
+            {
+                "id": 1234,
+                "name": "Failed auth event at the source",
+                "count": 120
+            },
+            {
+                "id": 12345,
+                "name": "Successful auth event at the destination",
+                "count": 81
+            },
+            {
+                "id": 123456,
+                "name": "Failed auth event at the destination",
+                "count": 55
+            }
+
+    ]
+
+}
+
